@@ -6,3 +6,5 @@ npx create-next-app [name] <br/>
 npm install ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers @openzeppelin/contracts <br/>
 Set up Deploy.js <br/>
 npx hardhat <br/>
+In a new tab <br/>
+npx hardhat run scripts/deploy.js --network localhost<br/>
